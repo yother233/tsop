@@ -1,0 +1,4 @@
+name: tsop
+mode: debug
+log:
+  level: debug
